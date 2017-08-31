@@ -1,0 +1,38 @@
+.parallax-container {
+      height: 300px;
+    }
+
+.nombre{
+	font-family: 'Muli', sans-serif;
+}
+
+ html {
+    f
+font-family: 'Dosis', sans-serif;
+  }
+
+ .di{
+ 	height: 2px;
+ 	background-color: #880e4f;
+ 	border-radius: 50px;
+  }
+
+.texto{
+	font-family: 'Raleway', sans-serif;
+ }
+
+.titu{
+	background-color: #fce4ec; 
+}
+
+li{
+	list-style-type: square;
+}
+
+.cont{
+	background-color: #eeeeee;
+}
+
+.liga{
+	font-size: 10px;
+}
